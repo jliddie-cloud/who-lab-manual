@@ -3,10 +3,10 @@ bookdown::gitbook:
   config:
     toc:
       before: |
-        <li><a href="./">Lab manual</a></li>
+        <li><a href="./">WHO Lab Manual</a></li>
       after: |
-        <li><a href="https://github.com/jadebc/lab-manual" target="blank">Published with bookdown</a></li>
-    edit: https://github.com/jadebc/lab-manual/edit/master/%s
+        <li><a href="https://github.com/water-health-opportunity-lab/who-lab-manual" target="blank">Published with bookdown</a></li>
+    edit: https://github.com/water-health-opportunity-lab/who-lab-manual/edit/master/%s
     download: ["pdf", "epub"]
 bookdown::pdf_book:
   includes:
