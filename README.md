@@ -54,7 +54,7 @@ Give it a numeric prefix so it appears in the desired order.
 
 Run `bookdown::serve_book()` again to preview.
 
-#### 5. Publishing Updates
+### 5. Publishing Updates
 
 When you're ready to publish changes:
 By default, the rendered HTML is saved to the docs/ folder (set in _bookdown.yml).
