@@ -59,13 +59,32 @@ Run `bookdown::serve_book()` again to preview.
 When you're ready to publish changes:
 By default, the rendered HTML is saved to the docs/ folder (set in _bookdown.yml).
 
-You can host the manual on GitHub Pages:
+#### Build locally
+From R/RStudio Console:
+```r
+bookdown::render_book("index.Rmd")
+```
+This regenerates the HTML files into the docs/ directory (as set in _bookdown.yml).
+
+#### Commit the build
+
+Make sure `docs/` is committed and pushed to GitHub (do not add it to .gitignore).
+Also ensure there is a `.nojekyll` file in `docs/` to disable Jekyll:
+
+```bash
+touch docs/.nojekyll
+git add docs
+git commit -m "Update manual"
+git push
+```
+
+#### Host the manual on GitHub Pages:
 
 - Go to your repo → Settings → Pages.
 
 - Under Source, choose Deploy from a branch.
 
-- Select branch: main, folder: /docs.
+- Select branch: `main`, folder: `/docs`.
 
 - Save.
 

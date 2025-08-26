@@ -146,3 +146,8 @@ presentations
 professional-advice
 funding
 ethics-and-global-health-research
+subsection--
+sub-subsection--
+summary-of-change
+link-to-spec
+who-should-review-the-pull-request
