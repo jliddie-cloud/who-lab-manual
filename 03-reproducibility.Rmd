@@ -1,17 +1,17 @@
 # Reproducibility
 
-by Jade Benjamin-Chung
+by Xindi (Cindy) Hu
 
 Our lab adopts the following practices to maximize the reproducibility of our work. 
 
-1. Design studies with appropriate methodology and adherence to best practices in epidemiology and biostatistics
-2. Register study protocols
-3. Write and register pre-analysis plans
-4. Create reproducible workflows
-5. Process and analyze data with internal replication and masking
-6. Use reporting checklists with manuscripts
-7. Publish preprints
-8. Publish data (when possible) and replication scripts
+1. Design studies with appropriate methodology and adherence to best practices in environmental health, epidemiology, and biostatistics
+<!-- 2. Register study protocols -->
+<!-- 3. Write and register pre-analysis plans -->
+3. Create reproducible workflows
+4. Process and analyze data with internal replication and masking
+5. Use reporting checklists with manuscripts
+6. Publish preprints
+7. Publish data (when possible) and replication scripts
 
 
 ## What is the reproducibility crisis? 
@@ -30,10 +30,6 @@ Recommended readings on the "reproducibility crisis":
 ## Study design
 
 Appropriate study design is beyond the scope of this lab manual and is something trainees develop through their coursework and mentoring. 
-
-## Register study protocols
-
-We register all randomized trials on [clinicaltrials.gov](clinicaltrials.gov), and in some cases register observational studies as well. 
 
 ## Write and register pre-analysis plans
 
