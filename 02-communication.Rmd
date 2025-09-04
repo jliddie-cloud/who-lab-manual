@@ -17,17 +17,13 @@ One benefit of the academic environment is its schedule flexibility. This means 
 - Use email for longer messages (>200 words) or messages that merit preservation. 
 - Generally, strive to respond within 24 hours. As noted above, if you are unusually busy or on vacation please alert the team in advance so we can expect you not to respond at all / as quickly as usual. 
 
-## [insert Confluence and Jira expectations]
+## Confluence and Jira
 
-<!-- - Jade will add new cards within our shared Trello board that outline your tasks.  -->
-<!-- - The higher a card is within your list, the higher priority it is. -->
-<!-- - Generally, strive to complete the tasks in your card by the date listed.  -->
-<!-- - Use checklists to break down a task into smaller chunks. Sometimes Jade will write this for you, but you can also add this yourself.  -->
-<!-- - Jade will move your card to the "Completed" list when it is done.  -->
+Cindy will add new tasks to the shared Confluence project folders that outline your tasks. These tasks will show an assigned priority level within the project. Generally, strive to complete the tasks assigned to you by the date listed. The tasks will be marked as "completed" once it is finished. You can also use Confluence to create your own projects and tasks to organize other projects you may be involved in.
 
-## [insert one One Drive expectations]
+## OneDrive
 
-<!-- - We mostly use Google Drive to create shared documents with longer descriptions of tasks. These documents are linked to in Trello. Jade often shares these with the whole team since tasks are overlapping, and even if a task is assigned to one person, others may have valuable insights.  -->
+- We mostly use OneDrive to create shared documents with proposals, meeting notes, and longer descriptions of tasks. These documents are linked to in Confluence and Jira.
 
 ## Meetings
 
